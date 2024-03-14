@@ -1,5 +1,5 @@
 import java.util.Random;
-// ID: 318159282
+
 /**
  * @author SAGIV ANTEBI
  * A class of Point
