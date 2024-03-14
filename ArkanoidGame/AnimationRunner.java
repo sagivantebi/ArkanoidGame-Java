@@ -1,6 +1,5 @@
 import biuoop.DrawSurface;
 import biuoop.GUI;
-// ID: 318159282
 
 /**
  * @author SAGIV ANTEBI
