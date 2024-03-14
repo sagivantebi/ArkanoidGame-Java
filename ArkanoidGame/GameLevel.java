@@ -4,7 +4,6 @@ import biuoop.KeyboardSensor;
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
-// ID: 318159282
 
 /**
  * @author SAGIV ANTEBI
