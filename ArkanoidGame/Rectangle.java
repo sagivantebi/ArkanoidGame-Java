@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-// ID: 318159282
 /**
  * @author SAGIV ANTEBI
  * A class of Rectangle
