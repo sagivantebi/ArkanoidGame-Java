@@ -1,7 +1,6 @@
 import biuoop.DrawSurface;
 
 import java.util.ArrayList;
-// ID: 318159282
 
 /**
  * @author SAGIV ANTEBI
