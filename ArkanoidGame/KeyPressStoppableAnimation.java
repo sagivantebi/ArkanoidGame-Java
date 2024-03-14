@@ -1,6 +1,5 @@
 import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
-// ID: 318159282
 
 /**
  * @author SAGIV ANTEBI
