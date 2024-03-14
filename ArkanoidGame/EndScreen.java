@@ -2,7 +2,6 @@ import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
 
 import java.awt.Color;
-// ID: 318159282
 
 /**
  * @author SAGIV ANTEBI
