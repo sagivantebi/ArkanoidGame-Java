@@ -1,5 +1,4 @@
 import biuoop.DrawSurface;
-// ID: 318159282
 /**.
  * @author SAGIV ANTEBI
  * A class of Animation
