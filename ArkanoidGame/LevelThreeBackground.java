@@ -1,4 +1,3 @@
-// ID: 318159282
 
 import biuoop.DrawSurface;
 
