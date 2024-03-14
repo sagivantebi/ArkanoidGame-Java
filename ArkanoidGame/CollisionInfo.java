@@ -1,4 +1,3 @@
-// ID: 318159282
 /**
  * @author SAGIV ANTEBI
  * A class of CollisionInfo
