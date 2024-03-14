@@ -1,7 +1,6 @@
 import biuoop.DrawSurface;
 
 import java.awt.Color;
-// ID: 318159282
 
 /**
  * @author SAGIV ANTEBI
